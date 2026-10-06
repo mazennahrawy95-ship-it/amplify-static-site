@@ -1,0 +1,2 @@
+# amplify-static-site
+test
